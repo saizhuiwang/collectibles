@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" fill="none">
+<path fill="#090B0C" d="M0 0h1600v900H0z"/>
+<!-- Ribbon decorations from the Collectibles Connect deck, rebuilt as vectors. -->
+<path d="M1380-34c-32 59-71 107-25 152 35 35 143 91 268 171" stroke="#16E7E4" stroke-width="24"/>
+<path d="M-31 715c55 37 110 60 163 100 54 40 43 70 18 114" stroke="#FE2855" stroke-width="27"/>
+<path d="M1440 831c64-23 112-14 178 15" stroke="#16E7E4" stroke-width="10"/>
+<!-- Ticket -->
+<g transform="translate(900 120) rotate(-12)"><path d="M0 0h92v20a12 12 0 0 0 0 24v20H0V44a12 12 0 0 0 0-24Z" fill="#FE2855"/><path d="M63 6v51" stroke="#090B0C" stroke-width="3.5" stroke-dasharray="5 5"/><path d="m15 18 22 28m-1-28L16 46" stroke="white" stroke-width="3.5"/></g>
+<!-- Clean vector shopping bag and TikTok note -->
+<g transform="translate(1445 34)"><path d="M25 33V20Q25 4 40 4h15q15 0 15 16v13" stroke="#FAFAFA" stroke-width="8"/><path d="M17 29h60q10 0 12 13l10 61q3 15-12 15H5q-13 0-10-15L5 42q2-13 12-13Z" fill="#FAFAFA"/><path d="M55 48h-9v35a9 9 0 1 1-8-9v-9a18 18 0 1 0 17 18V64q7 6 15 6v-9q-13-1-15-13Z" fill="#090B0C"/></g>
+<!-- Machine top and base -->
+<path d="m285 283-23 39h416l-23-39Z" fill="#FE2855"/><path d="M292 291h356" stroke="#090B0C" stroke-width="4"/>
+<path d="m154 741-35 34h733l-26-34Z" fill="#16E7E4"/>
+<!-- Lever -->
+<path d="M880 505h59v65h-59z" fill="#FE2855"/>
+
+<!-- Main cabinet -->
+<path d="M115 316h738l31 31v367l-30 32H115l-29-32V347Z" fill="#16E7E4"/>
+<path d="M86 695h798v19l-30 32H115l-29-32Z" fill="#FE2855"/>
+<path fill="#000" d="M126 364h718v299H126z"/>
+<path d="M151 683h166v24H151z" fill="#090B0C"/>
+<!-- Gift -->
+<g transform="translate(1004 733) rotate(10)"><path d="M0 12h107v93H0z" fill="#FE2855"/><path d="M-5 4h117v23H-5z" fill="#16E7E4"/><path d="M44 9h18v97H44z" fill="#16E7E4"/><path d="M51 8C-13-30 30-62 51 8Zm4 0c53-57 88-20 0 0Z" stroke="#16E7E4" stroke-width="9" stroke-linejoin="round"/></g>
+<!-- Sparkles -->
+<path d="M1094 244q2 16 16 20-14 3-16 20-2-17-16-20 14-4 16-20Z" fill="#FE2855"/>
+<path d="M1508 606q3 23 23 29-20 6-23 29-3-23-23-29 20-6 23-29Z" fill="#16E7E4"/>
+</svg>
