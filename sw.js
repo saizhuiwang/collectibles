@@ -1,4 +1,4 @@
-const CACHE='collectibles-offline-v4';
+const CACHE='collectibles-offline-v5';
 const FILES=['./','./index.html','./admin.html','./style.css','./admin.css','./app.js','./admin.js','./sound.js','./shared.js','./seed.js','./core.js','./config.js','./assets/giveaway-scene.svg','./assets/supergirl-front.png'];
 self.addEventListener('install',event=>event.waitUntil(caches.open(CACHE).then(cache=>cache.addAll(FILES)).then(()=>self.skipWaiting())));
 self.addEventListener('activate',event=>event.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(k=>k!==CACHE).map(k=>caches.delete(k)))).then(()=>self.clients.claim())));
